@@ -1,2 +1,1 @@
-# ThreeConfigurator
-Created with CodeSandbox
+# ThreeJSConfigurator
